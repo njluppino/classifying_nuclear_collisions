@@ -17,3 +17,11 @@ PRESENTATION DESCRIPTION
 ##################################
 
 Presentation to walk through each piece of the code and describe the different methods used to increase the models accuracy.
+
+###############################
+
+Sample Data Description
+
+##############################
+
+Included a small sample of 100 collsions for people to test on.
